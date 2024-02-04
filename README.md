@@ -54,4 +54,13 @@ Before running the app, make sure to set up your environment variables:
     GOOGLE_API_KEY=your_api_key_here
     ```
 
-3. The app
+3. The app will read this key to authenticate requests to the AI service.
+
+## Contributing
+
+Contributions to improve the app are welcome. Please follow the standard fork-clone-branch-pull request workflow.
+
+## Contact
+
+gmail - rajnavnetsingh@gmail.com
+linkedin - linkedin.com/in/navneetrajsingh
