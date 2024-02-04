@@ -63,4 +63,4 @@ Contributions to improve the app are welcome. Please follow the standard fork-cl
 ## Contact
 
 gmail - rajnavnetsingh@gmail.com
-linkedin - linkedin.com/in/navneetrajsingh
+linkedin - www.linkedin.com/in/navneetrajsingh
